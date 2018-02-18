@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav1"
+        android:title="RestaurantName">
+
+    </item>
+
+    <item android:id="@+id/nav2"
+        android:title="BasicSettings">
+
+    </item>
+
+    <item android:id="@+id/nav3"
+        android:title="Timings">
+
+    </item>
+
+    <item android:id="@+id/nav4"
+        android:title="SpecialEvent">
+
+    </item>
+
+    <item android:id="@+id/nav5"
+        android:title="PaymentPage">
+
+    </item>
+    <item android:id="@+id/nav6"
+        android:title="Rateus">
+
+    </item>
+    <item android:id="@+id/nav7"
+        android:title="SpecialService(hologram)">
+
+    </item>
+
+
+
+
+
+
+
+</menu>

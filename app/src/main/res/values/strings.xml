@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ManagerApp</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string-array name="Actions">
+        <item>Update Offers</item>
+        <item>Update/Add Menu Items</item>
+        <item>Request For Prime Customers</item>
+        <item>My Restaurant Ratings</item>
+    </string-array>
+</resources>
